@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Api testing, Android & Web testing**
 
-- 👯 I’m looking to collaborate on **Bug hunting , projects**
+- 👯 I’m looking to collaborate on **Bug hunting , projects , Freelancing Opportunities, Open Source**
 
 - 🤝 I’m looking for help with **cyber**
 
