@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananta aka (an33)</h1>
 <h3 align="center">I am a Cybersecurity Specialist | bughunter | VAPT | Purple team</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anantanadapara&label=Profile%20views&color=0e75b6&style=flat" alt="anantanadapara" /> </p>
 
 - 🔭 I’m currently working on **Cyber Sec related projects.**
 
@@ -11,15 +10,15 @@
 
 - 🤝 I’m looking for help with **cyber**
 
-- 📝 I regularly write articles on [https://medium.com/@nadaparaananta](https://medium.com/@nadaparaananta)
+- 📝 I regularly write articles on [Medium](https://medium.com/@nadaparaananta)
 
 - 💬 Ask me about **Bughunting,Pentesting, Networking, VAPT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ananta-nadapara-9b1235268/**
 
-- 📄 Know about my experiences [https://www.youtube.com/watch?v=kTJczUoc26U](https://www.youtube.com/watch?v=kTJczUoc26U)
+- 📄 Know about my experiences [click_here](https://www.youtube.com/watch?v=kTJczUoc26U)
 
-- ⚡ Fun fact **My name is Ananta you can call me as a (an33)infinity♾️**
+- ⚡ Fun fact **My name is Ananta you can call me as a infinity♾️ 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
