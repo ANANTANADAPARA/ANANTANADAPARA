@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **Bug hunting , projects , Freelancing Opportunities, Open Source**
 
-- 🤝 I’m looking for help with **cyber**
-
 - 📝 I regularly write articles on [Medium](https://medium.com/@nadaparaananta)
 
 - 💬 Ask me about **Bughunting,Pentesting, Networking, VAPT**
