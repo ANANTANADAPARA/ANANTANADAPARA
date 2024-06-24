@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananta aka (an33)</h1>
-<h3 align="center">I am a Cybersecurity Specialist | bughunter | VAPT | Purple team</h3>
+<h3 align="center"> A passionate Ethical Hacker| Cybersecurity | bughunter | VAPT | Purple team</h3>
 
 
 - 🔭 I’m currently working on **Cyber Sec related projects.**
