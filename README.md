@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ananta-nadapara-9b1235268/**
 
-- 📄 Know about my experiences [click_here](https://www.youtube.com/watch?v=kTJczUoc26U)
+- 📄 Know about my experiences [check it](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - ⚡ Fun fact **My name is Ananta you can call me as a infinity♾️ 😁**
 
