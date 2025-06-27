@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [check it](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- ⚡ Fun fact **My name is Ananta you can call me as a infinity♾️ 😁**
+- ⚡ Fun fact **My name is Ananta you can call me as an infinity♾️ 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
