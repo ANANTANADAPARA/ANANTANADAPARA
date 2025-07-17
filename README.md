@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter+%F0%9F%A7%A1;Web+Security;VAPT;Red+Teamer;Self+Security+Researcher"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter+%F0%9F%90%9E;Web+Security;VAPT;Red+Teamer;Self+Security+Researcher"
 alt="Roles animation" />
 </p>
 
