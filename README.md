@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ananta+aka+an33;Ethical+Hacker+%7C+Cybersecurity+%7C+VAPT+%7C+Bug+Bounty+Hunter;Welcome+to+my+GitHub+Profile+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ananta+aka+an33" alt="Typing SVG" />
 </p>
 
 <h3 align="center">A passionate Ethical Hacker | Cybersecurity Enthusiast | VAPT | Bug Bounty Hunter | Red Team</h3>
