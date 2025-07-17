@@ -6,14 +6,21 @@
 
 ---
 
-- 🔭 I’m currently working on **Cybersecurity-related projects**
-- 🌱 Learning: **API Testing, Android & Web Pentesting**
-- 👯 Open for: **Bug bounties, collab, freelancing, open-source**
-- 📝 I write blogs on [Medium](https://medium.com/@nadaparaananta)
-- 💬 Ask me about: **Pentesting, Networking, Bug Bounty**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ananta-nadapara-9b1235268/)
-- 📄 Know more: [About me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- ⚡ Fun fact: **My name is Ananta — means infinity ♾️**
+- 🔭 I’m currently working on **Cyber Sec related projects.**
+
+- 🌱 I’m currently learning **Api testing, Android & Web testing**
+
+- 👯 I’m looking to collaborate on **Bug hunting , projects , Freelancing Opportunities, Open Source**
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@nadaparaananta)
+
+- 💬 Ask me about **Bughunting,Pentesting, Networking, VAPT**
+
+- 📫 How to reach me **https://www.linkedin.com/in/ananta-nadapara-9b1235268/**
+
+- 📄 Know about my experiences [check it](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+- ⚡ Fun fact **My name is Ananta you can call me as an infinity♾️ 😁**
 
 ---
 
