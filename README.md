@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Researcher+%F0%9F%94%91;Bug+Bounty+Hunter+%F0%9F%A7%A1" alt="Roles animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter+%F0%9F%A7%A1;Vulnerability+Analyst+penetration+testing;Red+Team;Cybersecurity+Researcher+%F0%9F%94%91" alt="Roles animation" />
 </p>
 
 
-<h3 align="center">A passionate Ethical Hacker | Cybersecurity Enthusiast | VAPT | Bug Bounty Hunter | Red Team</h3>
 
 ---
 
