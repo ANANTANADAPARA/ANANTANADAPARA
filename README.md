@@ -62,6 +62,33 @@
 
   <!-- Others -->
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+
+  <!-- Burp Suite -->
+  <img src="https://www.zaproxy.org/images/burp.png" alt="BurpSuite" width="40" height="40"/>
+  
+  <!-- Hydra -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/THC_Hydra_logo.png" alt="Hydra" width="40" height="40"/>
+
+  <!-- SQLMap -->
+  <img src="https://seeklogo.com/images/S/sqlmap-logo-31E278A629-seeklogo.com.png" alt="SQLMap" width="40" height="40"/>
+
+  <!-- WPScan -->
+  <img src="https://raw.githubusercontent.com/wpscanteam/wpscan/gh-pages/assets/img/logo.png" alt="WPScan" width="40" height="40"/>
+
+  <!-- Metasploit -->
+  <img src="https://www.offensive-security.com/wp-content/uploads/metasploit-logo.png" alt="Metasploit" width="40" height="40"/>
+
+  <!-- Nessus -->
+  <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/2019-07/NessusEssentials_Logo_BlackBlue_RGB.png" alt="Nessus" width="80" height="40"/>
+
+  <!-- OSINT -->
+  <img src="https://osintframework.com/assets/images/logo.png" alt="OSINT" width="40" height="40"/>
+
+  <!-- Wireshark -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
+
+  <!-- Kali Linux -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
 </p>
 
 ---
