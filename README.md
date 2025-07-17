@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ananta+aka+an33;Welcome+to+my+Github+Profile" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Researcher+%F0%9F%94%91;Bug+Bounty+Hunter+%F0%9F%A7%A1;Cloud+Security+Intern+%E2%98%81%EF%B8%8F;Lifelong+Learner+%F0%9F%93%9A" alt="Roles animation" />
+</p>
+
+
 <h3 align="center">A passionate Ethical Hacker | Cybersecurity Enthusiast | VAPT | Bug Bounty Hunter | Red Team</h3>
 
 ---
