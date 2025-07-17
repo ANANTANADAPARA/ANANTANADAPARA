@@ -37,59 +37,29 @@
 
 ### 💻 Languages & Tools:
 
+### 🧰 Languages & Tools:
 <p align="left">
-  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
-  <!-- Security Tools -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  
-  <!-- Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  
-  <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-
-  <!-- Git and GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-
-  <!-- Others -->
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-
-  <!-- Burp Suite -->
-  <img src="https://www.zaproxy.org/images/burp.png" alt="BurpSuite" width="40" height="40"/>
-  
-  <!-- Hydra -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/THC_Hydra_logo.png" alt="Hydra" width="40" height="40"/>
-
-  <!-- SQLMap -->
-  <img src="https://seeklogo.com/images/S/sqlmap-logo-31E278A629-seeklogo.com.png" alt="SQLMap" width="40" height="40"/>
-
-  <!-- WPScan -->
-  <img src="https://raw.githubusercontent.com/wpscanteam/wpscan/gh-pages/assets/img/logo.png" alt="WPScan" width="40" height="40"/>
-
-  <!-- Metasploit -->
-  <img src="https://www.offensive-security.com/wp-content/uploads/metasploit-logo.png" alt="Metasploit" width="40" height="40"/>
-
-  <!-- Nessus -->
-  <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/2019-07/NessusEssentials_Logo_BlackBlue_RGB.png" alt="Nessus" width="80" height="40"/>
-
-  <!-- OSINT -->
-  <img src="https://osintframework.com/assets/images/logo.png" alt="OSINT" width="40" height="40"/>
-
-  <!-- Wireshark -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
-
-  <!-- Kali Linux -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://www.offensive-security.com/wp-content/uploads/2021/05/metasploit-logo.svg" alt="Metasploit" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/40303648?s=200&v=4" alt="BurpSuite" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/12223793/50906842-bfd77580-140e-11e9-9a41-d7fd45d1c124.png" alt="Hydra" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/S/sqlmap-logo-A98A7C31C0-seeklogo.com.png" alt="SQLMap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/wpscanteam/wpscan/gh-pages/assets/images/logo.png" alt="WPScan" width="40" height="40"/>
+  <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/logos/Nessus_Logo_Blue_RGB.png" alt="Nessus" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/wireshark.svg" alt="Wireshark" width="40" height="40"/>
 </p>
+
 
 ---
 
